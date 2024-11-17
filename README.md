@@ -5,6 +5,7 @@ IT uzmanlarının günlük işlerini kolaylaştırmak için 35 farklı komutu te
 Bu BAT dosyası, IT uzmanları için vazgeçilmez bir araç haline gelecek ve Windows işletim sisteminde yönetimi hızlandırıp kolaylaştıracaktır. Üstelik, herhangi bir komutun çalışmasını sağlamak için yalnızca ilgili numarayı girmeniz yeterli olacak.
 
 Bat dosyasının ekran görüntüsü:
+
 ![35in1](https://github.com/user-attachments/assets/0f66c903-9285-4ee0-85ab-3bbec321855e)
 
 Bat dosyasını kullanmak için aşağıdaki adımları takip edebilirsiniz:
