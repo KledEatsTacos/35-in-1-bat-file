@@ -1,15 +1,10 @@
-Hello,
+I’ve combined 35 different commands into a single .bat file to make IT professionals’ daily tasks easier. With this, you can quickly perform any task by simply entering its number. Tasks like Windows management, system maintenance, and network configuration are now much more convenient to handle. Whether you want to view hardware information, adjust network settings, or even perform system maintenance tasks like firewall configuration and RAM optimization, you can do it all with just a few clicks.
 
-To make the daily tasks of IT professionals easier, I have combined 35 different commands into a single .bat file. This way, you can quickly perform the desired operation by simply typing its number [...]
+This BAT file will become an indispensable tool for IT professionals, speeding up and simplifying management on the Windows operating system. What’s more, you only need to enter the relevant number to execute a command.
 
-This BAT file will become an indispensable tool for IT professionals, speeding up and simplifying management on the Windows operating system. Moreover, any command can be executed [...]
-
-Screenshot of the BAT file:
-
-To use the BAT file, you can follow these steps:
+Steps to use the BAT file:
 
 Open a blank text document.
-Paste the bat file codes I shared below into this document.
-Save the file with the Save As option.
-Name the file, for example, "35in1.bat" (make sure the extension is .bat).
-Important: For the commands in the bat file to work properly, you need to run the file as an Administrator. To do this, right-click on the file and select "Run as Administrator"
+Paste the BAT file code (shared below) into this document.
+Save the document using the "Save As" option. Name the file something like 35in1.bat (make sure the extension is .bat).
+Important: For the commands in the BAT file to work properly, you must run it as an administrator. To do this, right-click on the file and select "Run as Administrator."
