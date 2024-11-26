@@ -1,18 +1,15 @@
-Merhabalar,
+Hello,
 
-IT uzmanlarının günlük işlerini kolaylaştırmak için 35 farklı komutu tek bir .bat dosyasında bir araya getirdim. Bu sayede, yapmak istediğiniz işlemi sadece numarasını yazarak hızlıca gerçekleştirebilirsiniz. Windows yönetimi, sistem bakımı ve ağ yapılandırma gibi temel işlemleri pratik bir şekilde gerçekleştirmek artık çok daha kolay. İster donanım bilgilerini görüntülemek, ister ağ ayarlarını düzenlemek, hatta güvenlik duvarı ve RAM optimizasyonu gibi sistem bakım işlemlerini dahi birkaç tıklama ile yapabilirsiniz.
+To make the daily tasks of IT professionals easier, I have combined 35 different commands into a single .bat file. This way, you can quickly perform the desired operation by simply typing its number [...]
 
-Bu BAT dosyası, IT uzmanları için vazgeçilmez bir araç haline gelecek ve Windows işletim sisteminde yönetimi hızlandırıp kolaylaştıracaktır. Üstelik, herhangi bir komutun çalışmasını sağlamak için yalnızca ilgili numarayı girmeniz yeterli olacak.
+This BAT file will become an indispensable tool for IT professionals, speeding up and simplifying management on the Windows operating system. Moreover, any command can be executed [...]
 
-Bat dosyasının ekran görüntüsü:
+Screenshot of the BAT file:
 
-![35in1](https://github.com/user-attachments/assets/0f66c903-9285-4ee0-85ab-3bbec321855e)
+To use the BAT file, you can follow these steps:
 
-Bat dosyasını kullanmak için aşağıdaki adımları takip edebilirsiniz:
-
-Boş bir metin belgesi açın.
-Aşağıda paylaştığım bat dosyası kodlarını bu belgeye yapıştırın.
-Dosyayı Farklı Kaydet seçeneğiyle kaydedin.
-Dosya adını örneğin "35in1.bat" şeklinde girin (uzantısının .bat olduğundan emin olun).
-
-Önemli: Bat dosyasındaki komutların düzgün bir şekilde çalışabilmesi için, dosyayı Yönetici olarak çalıştırmanız gerekmektedir. Bunun için dosyaya sağ tıklayıp "Yönetici olarak çalıştır" seçeneğini tıklayın.
+Open a blank text document.
+Paste the bat file codes I shared below into this document.
+Save the file with the Save As option.
+Name the file, for example, "35in1.bat" (make sure the extension is .bat).
+Important: For the commands in the bat file to work properly, you need to run the file as an Administrator. To do this, right-click on the file and select "Run as Administrator"
